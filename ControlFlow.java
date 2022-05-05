@@ -5,5 +5,6 @@ public class ControlFlow {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println(scanner.hasNext("test"));
+
     }
 }
